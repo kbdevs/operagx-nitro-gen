@@ -8,7 +8,13 @@ fetch("https://raw.githubusercontent.com/kbdevs/operagx-nitro-gen/main/script.js
 ```
 
 ## On Computer
-just run the .py and it wil save all the tokens to a ```results.txt```, in the .py at the bottom it has the link for how to redeem the codes
+just run the .py and it wil save all the tokens to a ```results.txt```, in the .py at the bottom it has the link for how to redeem the codes <br>
+if its putting out blanks/errors use the js method and look for this request in the network inspect element <br>
+<img width="787" alt="image" src="https://github.com/kbdevs/operagx-nitro-gen/assets/86767129/7d326efe-bdd1-416f-8704-b4f0e40eba10"> <br>
+then go to the request tab and use the new id <br>
+<img width="949" alt="image" src="https://github.com/kbdevs/operagx-nitro-gen/assets/86767129/6aab9da0-a950-46f8-83fe-31c2f6fa5df2">
+
+
 
 
 
