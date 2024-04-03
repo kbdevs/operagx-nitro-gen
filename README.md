@@ -1,5 +1,7 @@
 # PATCHED, I'VE UPLOADED THE LIST I HAD AS RESPONSES.TXT
 
+# FULL CREDIT FOR THE JS VERSION TO https://github.com/localuser-isback
+
 
 
 # operagx nitro gen
